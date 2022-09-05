@@ -1,0 +1,1 @@
+x64\ship\accsrv\x-none\wsdl\DesignServices\applicationdesignservice.wsdl
